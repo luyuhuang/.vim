@@ -82,6 +82,7 @@ nmap <leader>6 6gt
 nmap <leader>7 7gt
 nmap <leader>8 1gt
 nmap <leader>t <C-W>T
+nmap <leader>o <C-W>o
 
 let g:VM_maps = {}
 let g:VM_maps['Find Under']         = '<C-d>'
